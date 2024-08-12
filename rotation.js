@@ -30,4 +30,4 @@ fileRotateTransport.on('archive', (zipFilename) => {});
 fileRotateTransport.on('logRemoved', (removedFilename) => {});
 
 
-logger.info("test info log")
+logger.info("Test info log")
