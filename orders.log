@@ -1,0 +1,12 @@
+{
+  message: 'Order failed',
+  level: 'error',
+  service: 'OrderService',
+  timestamp: '2024-08-12T14:55:43.524Z'
+}
+{
+  message: 'An order was placed',
+  level: 'info',
+  service: 'OrderService',
+  timestamp: '2024-08-12T16:31:38.243Z'
+}

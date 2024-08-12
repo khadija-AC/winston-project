@@ -1,0 +1,15 @@
+{
+  message: 'An info log',
+  level: 'info',
+  timestamp: '2024-08-12 08:29:11.190 PM'
+}
+{
+  message: 'test info log',
+  level: 'info',
+  timestamp: '2024-08-12 08:29:44.175 PM'
+}
+{
+  message: 'test info log',
+  level: 'info',
+  timestamp: '2024-08-12 08:30:43.483 PM'
+}

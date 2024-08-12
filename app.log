@@ -1,0 +1,81 @@
+{"level":"error","message":"An error log"}
+{"level":"error","message":"An error log","timestamp":"2024-08-12T13:23:23.461Z"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2024-08-12T13:26:18.808Z"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2024-08-12T14:00:44.896Z"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2024-08-12T14:01:00.143Z"}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  message: 'An error log',
+  level: 'error',
+  timestamp: '2024-08-12T14:04:10.538Z'
+}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  message: 'An error log',
+  level: 'error',
+  timestamp: '2024-08-12T14:12:52.626Z'
+}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  level: 'error',
+  message: 'An error log 504 Getway Timeout',
+  stack: 'Error: 504 Getway Timeout\n' +
+    '    at Object.<anonymous> (C:\\Users\\admin\\Documents\\Etudes\\FT\\Projects\\winston-project\\app.js:24:35)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1208:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:1024:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n' +
+    '    at node:internal/main/run_main_module:28:49',
+  timestamp: '2024-08-12T14:13:00.023Z'
+}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  level: 'error',
+  message: 'An error log 504 Getway Timeout',
+  stack: 'Error: 504 Getway Timeout\n' +
+    '    at Object.<anonymous> (C:\\Users\\admin\\Documents\\Etudes\\FT\\Projects\\winston-project\\app.js:24:35)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1208:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:1024:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n' +
+    '    at node:internal/main/run_main_module:28:49',
+  timestamp: '2024-08-12T17:56:26.912Z'
+}
+[2024-08-12 07:57:19.327 PM] [31merror[39m: 	[31mAn error log 504 Getway Timeout[39m
+{
+  method: 'GET',
+  isAuthenticated: false,
+  level: '\x1B[31merror\x1B[39m',
+  message: '\x1B[31mAn error log 504 Getway Timeout\x1B[39m',
+  stack: 'Error: 504 Getway Timeout\n' +
+    '    at Object.<anonymous> (C:\\Users\\admin\\Documents\\Etudes\\FT\\Projects\\winston-project\\app.js:29:35)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1208:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:1024:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n' +
+    '    at node:internal/main/run_main_module:28:49',
+  timestamp: '2024-08-12 08:00:59.941 PM'
+}
+[2024-08-12 08:02:38.930 PM] [31merror[39m: 	[31mAn error log 504 Getway Timeout[39m
+{
+  method: 'GET',
+  isAuthenticated: false,
+  level: 'error',
+  message: 'An error log 504 Getway Timeout',
+  stack: 'Error: 504 Getway Timeout\n' +
+    '    at Object.<anonymous> (C:\\Users\\admin\\Documents\\Etudes\\FT\\Projects\\winston-project\\app.js:26:35)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1208:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:1024:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n' +
+    '    at node:internal/main/run_main_module:28:49',
+  timestamp: '2024-08-12 08:03:12.918 PM'
+}
